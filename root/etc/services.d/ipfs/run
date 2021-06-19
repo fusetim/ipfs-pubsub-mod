@@ -1,4 +1,4 @@
 #!/usr/bin/with-contenv bash
 
 exec \
-	s6-setuidgid abc ipfs daemon --enable-pubsub-experiment
+	s6-setuidgid abc ipfs daemon --enable-pubsub-experiment --enable-namesys-pubsub
