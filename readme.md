@@ -9,4 +9,4 @@ More info here:
 # How to use
 
 Just add the following env var to your docker container:
-`DOCKER_MODS=fusetim/ipfs-pubsub-mod:latest`
+`DOCKER_MODS=ghcr.io/fusetim/ipfs-pubsub-mod:latest`
